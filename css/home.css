@@ -103,7 +103,10 @@ nav.navbar-default{
 	}
 
 	.main_container {
-		background: url('../images/container_bg_mobile.png') no-repeat left;
+		background: url('../images/container_bg_mobile.png') no-repeat center bottom 15px;
+		background-size: contain;
+		/* height: 633px; */
+		margin-bottom: -15px;
 	}
 }
 
