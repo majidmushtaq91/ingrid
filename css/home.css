@@ -101,5 +101,9 @@ nav.navbar-default{
 		background-color: #5c3c97;
 		color: whitesmoke;
 	}
+
+	.main_container {
+		background: url('../images/12325942_820272704745976_1492865051_o.jpg') no-repeat left;
+	}
 }
 
