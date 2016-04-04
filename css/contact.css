@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:url(../images/12894493_820272681412645_374540772_o.jpg) no-repeat;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+    padding:0;
+}
+
+nav.navbar-default{
+	    border-radius: 0px;
+		background-color:#5c3c97;
+		border:none;
+}
+
+.nav.navbar-nav .active > a{
+	    background-color:#513585;
+		color:#fff;
+}
+.nav.navbar-nav .active > a:hover{
+	    background-color:#513585;
+		color:#fff;
+}
+.nav.navbar-nav li > a{
+		color:#fff;
+		padding: 27px;
+}
+.nav.navbar-nav li > a:hover{
+	    background-color:#513585;
+		color:#fff;
+}
+
+
+.image > .img-responsive{
+
+    margin: auto;
+}
+
+.sign{
+}
+
+.sign h1{
+	text-align:center;
+	margin-bottom:20px;
+	color:#FFF;
+	font-size:25;
+}
+
+.form-group{
+	    margin-bottom: 1px;
+
+}
+
+.sign form{
+	overflow:hidden;
+	}
+
+.sign form button{
+	float:right;
+	}
+
+.panel-footer{
+	    background-color: #5c3c97;
+    margin-top: -1px;
+	border:none;
+}
+
+.panel-footer ul{
+	     margin-left: 84px;
+    margin-top: -32px;
+}
+
+.panel-footer ul li{
+	overflow:hidden;
+	    display: inline;
+}
+
+.panel-footer ul li a{
+
+}
+
+.panel-footer ul li a:hover{
+
+}
+
+.panel-footer p {
+	color: whitesmoke;
+	margin-top: 3px;
+}
+
+
